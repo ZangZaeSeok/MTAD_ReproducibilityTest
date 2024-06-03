@@ -2,9 +2,12 @@
 
 ## SMD Preprocessing
 - The experimental dataset for this study, the Server Machine Dataset (SMD), should be imported from the link below and placed in the path 'datasets/ServerMachineDataset'.
+  - link: https://github.com/NetManAIOps/OmniAnomaly/tree/master/ServerMachineDataset
   - Since we only have one example, we can only see the results of one experiment at this time.
 - Once you have placed the dataset, you will need to preprocess the SMD using the commands below.
-  - link: https://github.com/NetManAIOps/OmniAnomaly/tree/master/ServerMachineDataset
+```
+python preprocess.py --dataset SMD
+```
 
 
 ## Ablation Study
