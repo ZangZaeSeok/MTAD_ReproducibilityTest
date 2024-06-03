@@ -1,4 +1,4 @@
-# Is the Graph Attention Network Effective for\\Multivariate Time Series Anomaly Detection?
+# Is the Graph Attention Network Effective for Multivariate Time Series Anomaly Detection?
 
 ## SMD Preprocessing
 - The experimental dataset for this study, the Server Machine Dataset (SMD), should be imported from the link below and placed in the path 'datasets/ServerMachineDataset'.
